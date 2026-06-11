@@ -19,7 +19,7 @@ Business Analysis
 
 📂 Projects
 
-🔍 SQL File Monitoring Automation - Automated detection of delayed files to eliminate manual checks, built and actively used in production at Signature Business Solutions
+🔍 SQL File Monitoring Automation - Automated detection of delayed files to eliminate manual checks, built and actively used in production at Signature Business Solutions https://github.com/modiehimphuthi/SQL-delayed-file-detection
 
 📊 Power BI Financial Dashboard - KPI dashboard tracking business performance metrics, including cards, bar charts, trend lines, and donut breakdowns 
 
