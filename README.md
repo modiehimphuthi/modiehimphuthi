@@ -29,7 +29,7 @@ More projects coming soon.
 🎓 Education
 
 BSc Mathematical Statistics & Applied Mathematics
-Rhodes University — Class of 2024
+Rhodes University - Class of 2024
 
 📬 Get in Touch
 mphuthimodiehi25@gmail.com
