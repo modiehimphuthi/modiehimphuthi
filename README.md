@@ -23,7 +23,7 @@ Business Analysis
 |---|---|---|
 | [🔍 SQL File Monitoring Automation](https://github.com/modiehimphuthi/SQL-delayed-file-detection) | Automated detection of delayed files to eliminate manual checks which is built and actively used in production at Signature Business Solutions | SQL |
 | [📊 Power BI Financial Dashboard](#) | KPI dashboard tracking business performance metrics, including cards, bar charts, trend lines, and donut breakdowns | Power BI |
-| [🧮 SA Financial Services EDA](#) | Exploratory data analysis on a South African financial dataset looking at trends, distributions, and insights visualised in Python | Python, Pandas, Matplotlib |
+| [🧮 SA Financial Services EDA](https://github.com/modiehimphuthi/South-Africa-Economic-Indicators-Analysis-2015-2024-/tree/main) | Exploratory data analysis on a South African financial dataset looking at trends, distributions, and insights visualised in Python | Python, Pandas, Matplotlib |
 
 More projects coming soon.
 
