@@ -1,6 +1,6 @@
 Hi, I'm Modiehi Mphuthi 👋
 
-I'm a Business Analyst based in Johannesburg with a background in Mathematical Statistics and Applied Mathematics. I work at the intersection of data, business process, and decision-making, turning messy information into something useful. \
+I'm a Business/Data Analyst based in Johannesburg with a background in Mathematical Statistics and Applied Mathematics. I work at the intersection of data, business process, and decision-making, turning messy information into something useful. \
 Currently building experience across SQL automation, Power BI dashboards, and Python-based data analysis, with a focus on the financial services sector.
 
 🛠️ Tools & Skills
