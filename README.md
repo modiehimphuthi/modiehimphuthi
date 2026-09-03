@@ -26,7 +26,7 @@ Business & Process
 ### Data Engineering
 | Project | Description | Tools |
 |---|---|---|
-| [🗄️ Online Retail SQL Database] (https://github.com/modiehimphuthi/online-retail-database-/blob/main/)
+| [🗄️ Online Retail SQL Database](https://github.com/modiehimphuthi/online-retail-database-/blob/main/Online_Database_README.md) | Designed a normalized relational schema for an online retail system (Customers, Orders, Products, OrderItems, Payments) with enforced constraints, foreign key indexing, and referential integrity | SQL Server (T-SQL) |
 | [🔍 SQL File Monitoring Automation](https://github.com/modiehimphuthi/SQL-delayed-file-detection/blob/main/SQL_README.md) | Automated detection of delayed files to eliminate manual checks which is built and actively used in production at Signature Business Solutions | SQL |
 
 ### Analytics and Reporting
