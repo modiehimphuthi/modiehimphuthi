@@ -26,6 +26,7 @@ Business & Process
 ### Data Engineering
 | Project | Description | Tools |
 |---|---|---|
+| [🗄️ Online Retail SQL Database] (
 | [🔍 SQL File Monitoring Automation](https://github.com/modiehimphuthi/SQL-delayed-file-detection/blob/main/SQL_README.md) | Automated detection of delayed files to eliminate manual checks which is built and actively used in production at Signature Business Solutions | SQL |
 
 ### Analytics and Reporting
