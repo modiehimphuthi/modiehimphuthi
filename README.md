@@ -33,7 +33,6 @@ Business & Process
 | Project | Description | Tools |
 |---|---|---|
 | [📊 Power BI Financial Dashboard](https://github.com/modiehimphuthi/supply-chain-dashboard-powerbi/blob/main/POWERBI_README.md) | KPI dashboard tracking business performance metrics, including cards, bar charts, trend lines, and donut breakdowns | Power BI |
-| [🧮 SA Financial Services EDA](https://github.com/modiehimphuthi/South-Africa-Economic-Indicators-Analysis-2015-2024-/blob/main/EDA_README.md) | Exploratory data analysis on a South African financial dataset looking at trends, distributions, and insights visualised in Python | Python, Pandas, Matplotlib |
 
 More projects coming soon.
 
