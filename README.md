@@ -29,6 +29,7 @@ Business & Process
 | [🗄️ Online Retail SQL Database](https://github.com/modiehimphuthi/online-retail-database-/blob/main/README.md) | Designed a normalized relational schema for an online retail system (Customers, Orders, Products, OrderItems, Payments) with enforced constraints, foreign key indexing, and referential integrity | SQL Server (T-SQL) |
 | [🔍 SQL File Monitoring Automation](https://github.com/modiehimphuthi/SQL-delayed-file-detection/blob/main/README.md) | Automated detection of delayed files to eliminate manual checks which is built and actively used in production at Signature Business Solutions | SQL |
 | [🌐 API Data Ingestion Pipeline](https://github.com/modiehimphuthi/api-data-ingestion-pipeline/blob/main/README.md) | End-to-end pipeline that pulls data from a REST API, flattens and cleans it with pandas, then loads and validates it in SQL Server | Python, SQL |
+| [🏗️ Data Warehouse Star Schema](https://github.com/modiehimphuthi/sales-data-warehouse-star-schema/blob/main/README.md) | Remodels an e-commerce OLTP database into a star schema with separate sales and payments fact tables, then loads and validates it in SQL Server | SQL (T-SQL) |
 
 ### Analytics and Reporting
 | Project | Description | Tools |
